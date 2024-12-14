@@ -1,0 +1,314 @@
+/*task1*/
+.p1{
+    color:purple;
+}
+.p2{
+    color: red;
+}
+.p3{
+    color: rgb(0, 0, 255);
+}
+.p4{
+    color: #00ff00;
+}
+/*task2*/
+.p5{
+    font-size: 15px;
+}
+.p6{
+    color: gray;font-size: 30px;
+}
+.p7{
+    color:navy;font-size:1.5em;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p8{
+    color: purple;font-size: 25px;font-style: italic;font-family:cursive;
+}
+/*task 3 */
+.p9{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size:larger;
+}
+.p10{
+    text-align: left;
+    text-transform:capitalize;
+    font-size: large;
+}
+.p11{
+    text-align: right;
+    font-size: small;
+}
+.p12{
+    text-align: left;
+    text-transform:uppercase;
+    font-size: large;
+}
+.p13{
+    text-align:center;
+    text-decoration:overline;
+    font-size: small;
+
+}
+.p14{
+    text-align: left;
+    text-transform: lowercase;
+    font-size: large;
+}
+.p15{
+    text-align:left;
+    text-decoration: line-through;
+    font-size: small;
+}
+/*task4*/
+.main{
+    background-color: silver;
+    height: 150px;width: 100%;
+}
+
+.one{
+    background-color:rgba(24, 72, 112, 0.753);
+height:auto;width:auto;
+}
+.p16{
+    color: white;
+    text-align: center;
+    font-size:larger
+}
+.p17{
+    color: white;
+    text-align: center;
+    text-transform:uppercase;
+    font-size:smaller;
+}
+.two{
+    background-color: silver;
+    height:auto;width:auto;
+}
+.p18{
+    color:red;
+    text-decoration: underline;
+    text-decoration-color: red;
+    font-size:medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p19{
+    text-align: left;
+    text-transform: none;
+    font-size:medium
+}
+.strike,.bold,.capitalize{
+    text-decoration: line-through;
+}
+.three{
+    background-color:rgba(24, 72, 112, 0.753) ;
+    height:auto;width: 100%;
+}
+
+.p21{
+    color: white;
+    text-align: center;
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.p22{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
+/*task5*/
+.five{
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+.p23{
+    font-size: larger;
+}
+.p25{
+    text-align: left;
+    text-decoration: underline;
+    text-decoration-color:red;
+    color: red;
+    font-size: large;
+}
+.six{
+    background-image:url(image/connection-web-seamless-repeat-pattern-background-vector.jpg) ;
+   background-size:cover;height: 500px;
+    
+}
+.p26{
+    color: red;
+    
+}
+/*task6*/
+#background{
+    background-image:url(image/png-transparent-seamless-pattern-design-fill-background-halftone-wallpaper-repeating-decoration-square-thumbnail.png);
+
+    background-repeat:repeat-y;
+    background-size: 20%;
+}
+
+.p27{
+   text-align: left;
+   font-size: large;
+}
+.p28{
+    font-size: small;
+}
+/*task7*/
+#pizza{
+    background-image: url(image/istockphoto-1142653274-612x612.jpg);
+background-repeat:repeat-x;
+background-size: contain;
+}
+.seven{
+    text-align: left;
+    color: red;
+    font-size: large;
+    text-decoration: underline;
+    text-decoration-color:red ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    background-color: white;width: 200%;
+
+}
+.eight{
+    background-color: white;width: 200%;
+}
+.salad{
+    color: green;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.nine{
+    color: red;text-decoration: underline; text-decoration-color:red ; font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    background-color: white;width: 200%;
+
+}
+.ten{
+    background-color: white; width: 200%;
+
+}
+/*task8*/
+.p33{
+    color: red;font-size: large;font-style:normal;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+    text-decoration-color:red ;
+}
+.p34{
+    color:white;
+    background-image:linear-gradient(to right,rgb(160, 36, 57) 50% , rgb(232, 120, 15) 50%);
+}
+.p35{
+    color: red;font-size: large;font-style:normal;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+    text-decoration-color:red ;
+}
+
+.p36{
+    color:white;
+    background-image:linear-gradient(to right,rgb(160, 36, 57) 50% , rgb(232, 120, 15) 50%);
+
+}
+/*task9*/
+.p37{
+    background-image: linear-gradient(to right,#a86aa4 50%,#cc6b8e 62%, #f3a469 87%, #f7c978 100%);
+    height: 200px;
+}
+.p37{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 50px;font-size:x-large;padding: 20%;
+}
+/*task 10 */
+.p38{
+    background-color: aqua;padding:10px;
+}
+.p39{
+    background-color: white;padding: 10px;
+}
+.p40{
+    background-color: aqua;padding: 10px;
+}
+.p41{
+    background-color: white;padding: 10px;
+}
+.p42{
+    background-color: aqua;padding: 10px;
+}
+.p43{
+    background-color: white;padding: 10px;
+}
+.p44{
+    background-color: aqua;padding: 10px;
+}
+.p45{
+    background-color: white;padding: 10px;
+}
+.p46{
+    background-color: aqua;padding: 10px;
+}
+
+
+/*task11*/
+.forms{
+    background-color: #f2d5a3;
+    border: black;
+    width: 300px;height: 300px;
+}
+.contact{
+    background-color: brown;
+    width: 300px; height: 30px;
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
+.name{
+    width: 290px;height: 30px;
+}
+.email{
+    width: 290px;height: 30px;
+}
+.send{
+    background-color: yellow;
+    width:300px;height: 30px;
+}
+/*task12*/
+.t1{
+    text-align: center;
+    font-size: large;
+    color: red;background-color: #f2d5a3;
+}
+td,th{
+    background-color: aqua;
+}
+/*task13*/
+.tt{
+    background:url(image/pngtree-seamless-repeat-pattern-with-flowers-and-leaves-scandinavian-childish-drawing-background-picture-image_1172101.jpg)  repeat-y,
+    url(image/simples-lines-pattern-golden-color_1017-7467.avif) repeat-x;
+    background-size:contain;
+    
+}
+/*task14*/
+.col{
+    background-color: #eee1ca;
+}
+.p202{
+    color: rgb(109, 16, 16);
+    font-size:x-large ; font-style:normal;
+}
+.s101{
+    background-color: aqua; 
+    
+}
+.s102{
+    background-color: purple;
+}
+.s103{
+    background-color: red;
+}
